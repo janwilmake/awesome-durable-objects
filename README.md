@@ -1,6 +1,6 @@
 # Awesome Durable Objects
 
-![[Badge](https://xymake.com/janwilmake/status/1916444533472281049)](https://badge.xymake.com/janwilmake/status/1916444533472281049)
+![[Badge](https://xymake.com/janwilmake/status/1916444533472281049)](https://badge.xymake.com/janwilmake/status/1916444533472281049?ab)
 
 https://github.com/rivet-gg/actor-core
 
